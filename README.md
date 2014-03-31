@@ -1,7 +1,7 @@
-  libgdx-demo-metagun
-  ====================
+libgdx-demo-metagun
+====================
 
-  Libgdx demo - metagun
+Libgdx demo - metagun
 
-  ![metagun](http://i.imgur.com/V5kmBUd.png)
+![metagun](http://i.imgur.com/V5kmBUd.png)
 
